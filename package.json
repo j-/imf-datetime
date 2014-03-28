@@ -1,0 +1,19 @@
+{
+	"name": "imf-datetime",
+	"version": "1.0.0",
+	"author": "Jamie Hoeks <j@skeoh.com>",
+	"description": "Format dates according to the Internet Message Format Date and Time specification (RFC5322)",
+	"homepage": "https://github.com/j-/imf-datetime",
+	"main": "DateTime.js",
+	"devDependencies": {
+		"mocha": "~1.18.2"
+	},
+	"scripts": {
+		"test": "mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/j-/imf-datetime.git"
+	},
+	"license": "MIT"
+}
