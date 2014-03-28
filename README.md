@@ -7,7 +7,7 @@ Format dates according to the Internet Message Format Date and Time specificatio
 With [npm](http://npmjs.org/):
 
 ```sh
-$ npm install git://github.com/j-/imf-datetime
+$ npm install imf-datetime
 ```
 
 ## Use
