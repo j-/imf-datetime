@@ -10,6 +10,14 @@ With [npm](http://npmjs.org/):
 $ npm install imf-datetime
 ```
 
+## Testing
+
+Run [mocha](http://visionmedia.github.io/mocha/):
+
+```sh
+$ mocha
+```
+
 ## Use
 
 ```js
