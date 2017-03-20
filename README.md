@@ -12,7 +12,7 @@ $ npm install imf-datetime
 
 ## Testing
 
-Run [mocha](http://visionmedia.github.io/mocha/):
+Run [mocha](http://mochajs.org/):
 
 ```sh
 $ mocha
